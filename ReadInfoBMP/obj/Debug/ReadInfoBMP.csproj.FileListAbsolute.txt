@@ -1,0 +1,7 @@
+c:\users\cesarmorales\documents\visual studio 2015\Projects\ReadInfoBMP\ReadInfoBMP\bin\Debug\ReadInfoBMP.exe.config
+c:\users\cesarmorales\documents\visual studio 2015\Projects\ReadInfoBMP\ReadInfoBMP\bin\Debug\Files\Image.bmp
+c:\users\cesarmorales\documents\visual studio 2015\Projects\ReadInfoBMP\ReadInfoBMP\bin\Debug\ReadInfoBMP.exe
+c:\users\cesarmorales\documents\visual studio 2015\Projects\ReadInfoBMP\ReadInfoBMP\bin\Debug\ReadInfoBMP.pdb
+c:\users\cesarmorales\documents\visual studio 2015\Projects\ReadInfoBMP\ReadInfoBMP\obj\Debug\ReadInfoBMP.csprojResolveAssemblyReference.cache
+c:\users\cesarmorales\documents\visual studio 2015\Projects\ReadInfoBMP\ReadInfoBMP\obj\Debug\ReadInfoBMP.exe
+c:\users\cesarmorales\documents\visual studio 2015\Projects\ReadInfoBMP\ReadInfoBMP\obj\Debug\ReadInfoBMP.pdb
